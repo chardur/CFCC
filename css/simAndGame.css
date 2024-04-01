@@ -1,0 +1,58 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.cyan-text {
+    color: #00adef;
+}
+
+.custom-btn-blue {
+    background-color: #00477F !important;
+    color: #fff !important;
+}
+
+.custom-btn-blue:hover {
+    background-color: #00477F !important;
+    color: #FFBE36 !important;
+}
+
+.custom-icon-yellow {
+    fill: #FFBE36 !important;
+}
+
+.custom-icon-qfacts {
+    fill: #FFBE36 !important;
+}
+
+svg.squiggle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 200vw;
+    z-index: -1;
+}
+
+svg.squiggle path {
+    stroke-width: 0.95rem;
+}
+
+.table-cert>thead>tr>th {
+    background-color: #FFBE36;
+}
+
+.table-degree>thead>tr>th {
+    background-color: #00477F;
+    color: #FFF
+}
+
+.custom-icon-benefits {
+    fill: #00adef !important;
+}
+
+.custom-icon-careers {
+    fill: #00adef !important;
+}
